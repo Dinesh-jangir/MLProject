@@ -1,0 +1,14 @@
+pandas 
+numpy
+seaborn 
+
+
+
+
+
+
+
+
+ create -p venv python==3.10  
+ > conda create -p venv python==3.10         conda list  conda version conda ls 
+ conda list
